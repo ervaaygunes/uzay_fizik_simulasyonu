@@ -1,0 +1,22 @@
+# Derlenmiş dosyalar
+uzay_fizik_simulasyonu
+*.o
+*.out
+
+# Debug sembolleri
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# Editor dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Geçici dosyalar
+*.tmp
+*.log
+

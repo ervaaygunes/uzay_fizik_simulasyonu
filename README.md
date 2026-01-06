@@ -124,8 +124,7 @@ make run
 avp_proje_2026/
 ├── main.c          # Ana program kaynak kodu
 ├── Makefile        # Derleme dosyası
-├── README.md       # Proje dokümantasyonu
-└── prd.md          # Proje gereksinimleri dokümanı
+└── README.md       # Proje dokümantasyonu
 ```
 
 ## Lisans
